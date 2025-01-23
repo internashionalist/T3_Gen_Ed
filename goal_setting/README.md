@@ -22,7 +22,7 @@
 
 ## Tasks
 
-0. Set Your Goals
+### 0. Set Your Goals
 
 - Goal setting now will set you up for success this trimester, for graduation, and once you are employed.
 
@@ -30,19 +30,19 @@
 
 - In order to make these overall macro goals achievable, its important to have meso and micro goals listed under them. In your Google document, you should have 2-3 meso goals and 2-3 micro goals.
 
-For example:
+- For example:
 
-- I have macro goal to get a job at a Fintech company. I now need to evaluate what I need to prepare in order to reach this large goal. Therefore I will set up my meso goals:
-  - Create my resume
-  - Interview with a Fintech company
+  - I have macro goal to get a job at a Fintech company. I now need to evaluate what I need to prepare in order to reach this large goal. Therefore I will set up my meso goals:
+    - Create my resume
+    - Interview with a Fintech company
 
-- But in order to do those, I first need to set up my micro goals
-  - Attend networking events
-  - Have an Informational coffee with an engineer in Fintech
+  - But in order to do those, I first need to set up my micro goals
+    - Attend networking events
+    - Have an Informational coffee with an engineer in Fintech
 
 ![Goals](goals-1.png)
 
-1. Schedule Your Priorities
+### 1. Schedule Your Priorities
 
 - The Time Management Matrix was introduced by Dwight D. Eisenhower who believed that priority is related both to a task’s importance and its urgency. The higher the assigned priority, the more attention and time it merits. Stephen Covey then popularized and expanded on his ideas.
 
@@ -55,7 +55,7 @@ For example:
 
 - Review the Time Management Matrix and resources below:
 
-### Resources
+#### Resources
 
 [What Is the Time Management Matrix and How to Use It](https://intranet.atlasschool.com/rltoken/eeLCudbzUwgjjJF9o6XukQ)
 
@@ -63,13 +63,13 @@ For example:
 
 [Time management matrix: How to fill out the sections](https://intranet.atlasschool.com/rltoken/929SMuybNF5h1y2MDnjc8w)
 
-### Requirements
+#### Requirements
 
 - In the link provided below you will make a copy of the document and list your next week’s priorities (that would help you in your macro, meso, or micro goals above) and put them in each quadrant of the matrix based on your understanding.
 
 [Complete the time management matrix here](https://intranet.atlasschool.com/rltoken/IkEx95WMZS5xdyi2IIrXIA)
 
-2. Start, Stop, and Continue
+### 2. Start, Stop, and Continue
 
 - Now that you have determined where your priorities lie within the matrix. You should now solidify what you should start, stop and continue doing in order to meet your priorities and goals. Please keep these relevant to your previous steps (i.e. Atlas and career focused).
 
