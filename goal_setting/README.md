@@ -2,13 +2,13 @@
 
 ## Purpose
 
-    The purpose of this project is to implement goal setting into your professional life. You will review how goal setting can lead to greater success and performance. Setting goals aids in honing your focus and dedication to tasks/events throughout your personal and professional life. Goal setting can increase your productivity and promote a sense of self-mastery. Without maintaining and measuring your goals and productivity you wouldn’t be able to improve upon these objectives. Managing your priorities now will help you begin identifying who you are and get you excited for the future.
+- The purpose of this project is to implement goal setting into your professional life. You will review how goal setting can lead to greater success and performance. Setting goals aids in honing your focus and dedication to tasks/events throughout your personal and professional life. Goal setting can increase your productivity and promote a sense of self-mastery. Without maintaining and measuring your goals and productivity you wouldn’t be able to improve upon these objectives. Managing your priorities now will help you begin identifying who you are and get you excited for the future.
 
-    Starting these practices now will give you the upper hand when beginning to plan and organize your projects, job search, and future work tasks. Be sure you are implementing these tools throughout your time at Atlas.
+- Starting these practices now will give you the upper hand when beginning to plan and organize your projects, job search, and future work tasks. Be sure you are implementing these tools throughout your time at Atlas.
 
 ## Description
 
-    In this project you will begin consolidating and researching which goal setting and/or time management tools you would like to implement for yourself. Through the tasks you will need to find methods that will work for you so that you can begin practicing throughout the remainder or your time at Atlas. There are many ways this can be done, so be creative and use what best suits you!
+- In this project you will begin consolidating and researching which goal setting and/or time management tools you would like to implement for yourself. Through the tasks you will need to find methods that will work for you so that you can begin practicing throughout the remainder or your time at Atlas. There are many ways this can be done, so be creative and use what best suits you!
 
 ## Resources
 
